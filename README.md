@@ -84,13 +84,11 @@ chắc đã bằng 1.0
 7.0/8.0 ≠ 0
 30. Make it right before you make it faster – Hãy làm cho
 chương trình chạy đúng, trước khi làm nó chạy nhanh
-30.Make it clear before you make it faster – Hãy viết code
-rõ ràng, trước khi làm nó chạy nhanh
+
 31. Let your compiler do the simple optimizations – Hãy
 để trình dịch thực hiện các việc tối ưu hóa đơn giản
 32.Don't strain to re-use code; reorganize instead – Đừng
 cố tái sử dụng mã, thay vì vậy, hãy tổ chức lại mã
-
 33.Make sure special cases are truly special – Hãy đảm
 bảo các trường hợp đặc biệt là thực sự đặc biệt
 34.Keep it simple to make it faster – Hãy giữ nó đơn giản
