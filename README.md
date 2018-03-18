@@ -58,7 +58,7 @@ structures – Dùng các thủ tục đệ quy cho các cấu trúc
 dữ liệu đệ quy
 19. Test input for plausibility and validity – Kiểm tra đầu
 vào để đảm bảo tính chính xác và hợp lệ
-20.Make sure input doesn't violate the limits of the
+20. Make sure input doesn't violate the limits of the
 program – Hãy đảm bảo đầu vào không quá giới hạn
 cho phép của chương trình
 21. Terminate input by end-of-file marker, not by count –
@@ -84,25 +84,25 @@ chắc đã bằng 1.0
 7.0/8.0 ≠ 0
 30. Make it right before you make it faster – Hãy làm cho
 chương trình chạy đúng, trước khi làm nó chạy nhanh
-
 31. Let your compiler do the simple optimizations – Hãy
 để trình dịch thực hiện các việc tối ưu hóa đơn giản
-32.Don't strain to re-use code; reorganize instead – Đừng
+32. Don't strain to re-use code; reorganize instead – Đừng
 cố tái sử dụng mã, thay vì vậy, hãy tổ chức lại mã
-33.Make sure special cases are truly special – Hãy đảm
+
+33. Make sure special cases are truly special – Hãy đảm
 bảo các trường hợp đặc biệt là thực sự đặc biệt
-34.Keep it simple to make it faster – Hãy giữ nó đơn giản
+34. Keep it simple to make it faster – Hãy giữ nó đơn giản
 để làm cho nó nhanh hơn
-35.Make sure comments and code agree – Chú thích phải
+35. Make sure comments and code agree – Chú thích phải
 rõ ràng, sát code
-36.Don't comment bad code | rewrite it – Đừng chú thích
+36. Don't comment bad code | rewrite it – Đừng chú thích
 những đoạn mã xấu, hãy viết lại
 37. Use variable names that mean something – Hãy dùng
 các tên biến có nghĩa
-38.Format a program to help the reader understand it –
+38. Format a program to help the reader understand it –
 Hãy định dạng chương trình để giúp người đọc hiểu
 được chương trình
-39.Don't over-comment – Đừng chú thích quá nhiều
+39. Don't over-comment – Đừng chú thích quá nhiều
 
 -------------------------
 
